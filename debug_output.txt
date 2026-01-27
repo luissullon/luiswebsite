@@ -1,0 +1,3 @@
+Working directory: c:/Users/lns32/Downloads/data3610pset1 
+File exists: FALSE 
+Files in rawdata: NA, NA, NA, NA, NA
